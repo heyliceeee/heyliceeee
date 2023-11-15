@@ -34,8 +34,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,angular,swift,androidstudio,bootstrap,html,css,vscode,visualstudio,figma,git,github,gitlab,gradle," />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,mongodb,cs,c,dotnet,java,php,mysql,sqlite,postgres,postman" /><br></br>
+    <img src="https://skillicons.dev/icons?i=react,angular,swift,bootstrap,html,css,vscode,visualstudio,figma,git,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=gradle,nodejs,python,javascript,firebase,mongodb,cs,c,dotnet,java,php,mysql,postman" /><br></br>
     <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=heyliceeee&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
