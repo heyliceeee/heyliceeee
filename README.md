@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=8A02F7FF&lines=Hi+There!+👋;+I'm+Alice+Dias!;" />
 </h1>
 
-<h3 align="center">A passionate computer engineeing degree student from Portugal 🇵🇹</h3>
+<h3 align="center">A passionate Sotware Engineeing degree student from Portugal 🇵🇹</h3>
 
 <br/>
 
