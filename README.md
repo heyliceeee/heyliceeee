@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a food delivery app**
+ 🔭 I’m currently working on **a NEI Website**
  
- 🌱 I’m currently learning **React Native, JavaScript, CSS**
+ 🌱 I’m currently learning **React, Vite, JavaScript, TypeScript, Django, Python, Grafana, Prometheus, and Docker**
 
  💬 Ask me about **Java, C#, C, MySQL, MongoDB... or anything [here](https://github.com/heyliceeee/heyliceeee/issues)**
 
