@@ -46,19 +46,40 @@
 <br/>
 
 <div align="center">
-    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nei-estg&repo=nei-website&theme=react"/>
-    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=trazcaApp&theme=react"/>
+    <a href="https://github.com/nei-estg/nei-website">
+        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nei-estg&repo=nei-website&theme=react" />
+    </a>
+    <a href="https://github.com/heyliceeee/trazcaApp">
+        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=trazcaApp&theme=react"/>
+    </a>
 <p></p>
-    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=points-of-interest&theme=react"/>
-    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=imdbAPI&theme=react"/>
+    <a href="https://github.com/heyliceeee/points-of-interest">
+        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=points-of-interest&theme=react"/>
+    </a>
+    <a href="https://github.com/heyliceeee/imdbAPI">
+        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=imdbAPI&theme=react"/>
+    </a>
 <p></p>
-    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=passwordGenerator&theme=react"/>
-    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=costsProject&theme=react"/>
+    <a href="https://github.com/heyliceeee/passwordGenerator">
+        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=passwordGenerator&theme=react" />
+    </a>
+    <a href="https://github.com/heyliceeee/costsProject">
+        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=costsProject&theme=react"/>
+    </a>
 <p></p>
-    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=WorkSchedule&theme=react"/>
-    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=generic-data-structure&theme=react"/>
+   <a href="https://github.com/heyliceeee/WorkSchedule">
+        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=WorkSchedule&theme=react" />
+    </a>
+    <a href="https://github.com/heyliceeee/generic-data-structure">
+        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=generic-data-structure&theme=react"/>
+    </a>
 <p></p>
-    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=WorkSchedule&theme=react"/>
-    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=studentManagement&theme=react"/>
+    <a href="https://github.com/heyliceeee/studentManagement">
+        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=studentManagement&theme=react" />
+    </a>
+    <a href="https://github.com/heyliceeee/spaceFlightNews">
+        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=spaceFlightNews&theme=react"/>
+    </a>
+<p></p>
 </div>
 
