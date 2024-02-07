@@ -40,3 +40,25 @@
     <img width=490 align="center" src="https://github-readme-stats.vercel.app/api?username=heyliceeee&theme=react&show_icons=true&hide_border=false&count_private=true"/>
 </div>
 
+ <hr/>
+ 
+<h2 align="center">📌 Projects</h2>
+<br/>
+
+<div align="center">
+    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nei-estg&repo=nei-website&theme=react"/>
+    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=trazcaApp&theme=react"/>
+<p></p>
+    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=points-of-interest&theme=react"/>
+    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=imdbAPI&theme=react"/>
+<p></p>
+    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=passwordGenerator&theme=react"/>
+    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=costsProject&theme=react"/>
+<p></p>
+    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=WorkSchedule&theme=react"/>
+    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=generic-data-structure&theme=react"/>
+<p></p>
+    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=WorkSchedule&theme=react"/>
+    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=studentManagement&theme=react"/>
+</div>
+
