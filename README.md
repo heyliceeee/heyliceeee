@@ -21,8 +21,8 @@
  </div>
  
 <div align="center"> 
- <a href="" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/curriculum_vitae-D15E9B.svg?logo=heart" target="_blank" />
+ <a href="https://github.com/heyliceeee" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/curriculum_vitae_(soon)-D15E9B.svg?logo=heart" target="_blank" />
   </a>
   <a href="mailto:heyliceeee@gmail.com">
     <img src="https://custom-icon-badges.demolab.com/badge/mail-E61B23.svg?logo=mail" />
