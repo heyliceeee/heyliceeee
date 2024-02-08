@@ -47,7 +47,7 @@
 
 <div align="center">
     <a href="https://github.com/nei-estg/nei-website">
-        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nei-estg&repo=nei-website&theme=react" />
+        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=capture-the-flag&theme=react" />
     </a>
     <a href="https://github.com/heyliceeee/trazcaApp">
         <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=trazcaApp&theme=react"/>
