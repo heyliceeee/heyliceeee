@@ -46,7 +46,7 @@
 <br/>
 
 <div align="center">
-    <a href="https://github.com/nei-estg/nei-website">
+    <a href="https://github.com/heyliceeee/capture-the-flag">
         <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=capture-the-flag&theme=react" />
     </a>
     <a href="https://github.com/heyliceeee/trazcaApp">
