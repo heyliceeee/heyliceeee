@@ -21,11 +21,14 @@
  </div>
  
 <div align="center"> 
+ <a href="" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/curriculum_vitae-D15E9B.svg?logo=heart" target="_blank" />
+  </a>
   <a href="mailto:heyliceeee@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://custom-icon-badges.demolab.com/badge/mail-E61B23.svg?logo=mail" />
   </a>
   <a href="https://linkedin.com/in/heyliceeee" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://custom-icon-badges.demolab.com/badge/linkedin-blue.svg?logo=linkedin&logoSource=feather" target="_blank" />
   </a>
 </div>
 
