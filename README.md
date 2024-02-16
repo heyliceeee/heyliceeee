@@ -30,6 +30,9 @@
   <a href="https://linkedin.com/in/heyliceeee" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/linkedin-blue.svg?logo=linkedin&logoSource=feather" target="_blank" />
   </a>
+  <a href="https://gitlab.estg.ipp.pt/8200118" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/school_gitlab-orange.svg?logo=gitlab&logoSource=feather" target="_blank" />
+  </a>
 </div>
 
  <hr/>
