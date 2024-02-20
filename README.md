@@ -76,10 +76,6 @@
    <a href="https://github.com/heyliceeee/WorkSchedule">
         <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=WorkSchedule&theme=react" />
     </a>
-    <a href="https://github.com/heyliceeee/generic-data-structure">
-        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=generic-data-structure&theme=react"/>
-    </a>
-<p></p>
     <a href="https://github.com/heyliceeee/spaceFlightNews">
         <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=spaceFlightNews&theme=react"/>
     </a>
