@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **NEI's Website** and **my Porfolio**
+ 🔭 I’m currently working on **NEI's Website**
  
- 🌱 I’m currently learning **React, JavaScript, TypeScript, Django and Docker**
+ 🌱 I’m currently learning **React, TypeScript, Django and Docker**
 
  💬 Ask me about **Java, C#, C, MySQL, MongoDB... or anything [here](https://github.com/heyliceeee/heyliceeee/issues)**
 
