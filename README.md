@@ -52,6 +52,10 @@
 <br/>
 
 <div align="center">
+  <a href="https://github.com/heyliceeee/portfolio">
+        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=portfolio&theme=react"/>
+    </a>
+    <p></p>
     <a href="https://github.com/nei-estg/nei-website">
         <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nei-estg&repo=nei-website&theme=react"/>
     </a>
