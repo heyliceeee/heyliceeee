@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
- <a href="https://portfolio-heyliceeee.vercel.app/" target="_blank">
+ <a href="https://cv-heyliceeee.vercel.app/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/curriculum_vitae-D15E9B.svg?logo=heart" target="_blank" />
   </a>
   <a href="mailto:heyliceeee@gmail.com">
