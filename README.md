@@ -24,7 +24,7 @@
  <a href="https://cv-heyliceeee.vercel.app/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/curriculum_vitae-D15E9B.svg?logo=heart" target="_blank" />
   </a>
-  <a href="mailto:heyliceeee@gmail.com">
+  <a href="mailto:alicedias2002@hotmail.com">
     <img src="https://custom-icon-badges.demolab.com/badge/mail-E61B23.svg?logo=mail" />
   </a>
   <a href="https://linkedin.com/in/heyliceeee" target="_blank">
