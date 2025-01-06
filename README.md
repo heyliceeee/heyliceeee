@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **AnimeRadar**
  
- 🌱 I’m currently learning **React, AntDesign, CSS and JavaScript**
+ 🌱 I’m currently learning **React, AntDesign, CSS & JavaScript**
 
- 💬 Ask me about **Java, C#, C, MySQL, MongoDB... or anything [here](https://github.com/heyliceeee/heyliceeee/issues)**
+ 💬 Ask me about **Java, C#, MySQL... or anything [here](https://github.com/heyliceeee/heyliceeee/issues)**
 
  ⚡ Fun fact **The first computer virus was called Creeper**
  
