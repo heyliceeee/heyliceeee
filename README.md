@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **AnimeRadar**
+ 🔭 I’m currently working on **"Numeros & Gravuras" website**
  
  🌱 I’m currently learning **React, AntDesign, CSS & JavaScript**
 
