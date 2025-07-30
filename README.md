@@ -42,7 +42,7 @@
     <img src="https://skillicons.dev/icons?i=java,react,cs,flutter,docker" /><p></p>
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,git,github,gitlab,gradle,nodejs,python,javascript,bootstrap,html,css" /><p></p>
     <img src="https://skillicons.dev/icons?i=firebase,mongodb,angular,c,swift,dotnet,php,mysql,postman,ts,materialui,androidstudio,r,sqlite,vercel" /><br/><br/>
-    <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=heyliceeee&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=heyliceeee&hide=pascal,pawn,assembly,jupyternotebook&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
     <img width=490 align="center" src="https://github-readme-stats.vercel.app/api?username=heyliceeee&theme=react&show_icons=true&hide_border=false&count_private=true&include_all_commits=true"/>
 </div>
 
