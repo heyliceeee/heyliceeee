@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **"Numeros & Gravuras" website**
+ 🔭 I’m currently working on **"LouBank" app**
  
- 🌱 I’m currently learning **React, AntDesign, CSS & JavaScript**
+ 🌱 I’m currently learning **Flutter**
 
  💬 Ask me about **Java, C#, MySQL... or anything [here](https://github.com/heyliceeee/heyliceeee/issues)**
 
