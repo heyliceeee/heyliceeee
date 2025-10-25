@@ -52,8 +52,8 @@
 <br/>
 
 <div align="center">
-    <a href="https://github.com/heyliceeee/previsao-do-consumo-energetico-com-ml">
-            <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=previsao-do-consumo-energetico-com-ml&theme=react" />
+    <a href="https://github.com/heyliceeee/previsao-consumo-energetico">
+            <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=previsao-consumo-energetico&theme=react" />
         </a>
      <a href="https://github.com/heyliceeee/candy-crush-yolo">
             <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=candy-crush-yolo&theme=react" />
