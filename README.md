@@ -50,47 +50,5 @@
   <img src="https://raw.githubusercontent.com/heyliceeee/github-stats/main/output/stats_commits.svg">
 </picture>
 </div>
-
- <hr/>
- 
-<h2 align="center">📌 Projects</h2>
-<br/>
-
-<div align="center">
-    <a href="https://github.com/heyliceeee/previsao-consumo-energetico">
-            <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=previsao-consumo-energetico&theme=react" />
-        </a>
-     <a href="https://github.com/heyliceeee/candy-crush-yolo">
-            <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=candy-crush-yolo&theme=react" />
-        </a>
-    <p></p>
-    <a href="https://github.com/heyliceeee/SI-levExpress">
-        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=SI-levExpress&theme=react"/>
-    </a>
-    <a href="https://github.com/heyliceeee/simulador-missoes-to-cruz">
-        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=simulador-missoes-to-cruz&theme=react" />
-    </a>
-<p></p>
-    <a href="https://github.com/heyliceeee/SD-trabalhoPratico">
-        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=SD-trabalhoPratico&theme=react"/>
-    </a>
-    <a href="https://github.com/heyliceeee/robocodeIA">
-        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=robocodeIA&theme=react"/>
-    </a>
-<p></p>
-    <a href="https://github.com/heyliceeee/capture-the-flag">
-        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=capture-the-flag&theme=react"/>
-    </a>
-    <a href="https://github.com/heyliceeee/passwordGenerator">
-        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=passwordGenerator&theme=react" />
-    </a>
-<p></p>
-    <a href="https://github.com/heyliceeee/trazcaApp">
-        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=trazcaApp&theme=react"/>
-    </a>
-    <a href="https://github.com/heyliceeee/spaceFlightNews">
-        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=spaceFlightNews&theme=react"/>
-    </a>
-<p></p>
 </div>
 
