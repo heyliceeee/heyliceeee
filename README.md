@@ -4,17 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=8A02F7FF&lines=Hi+There!+👋;+I'm+Alice+Dias!;" />
 </h1>
 
-<h3 align="center">A junior software engineer from Portugal 🇵🇹</h3>
+<h3 align="center">An AI & Data Specialist from Portugal 🇵🇹</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **100 Days of Code - Python Bootcamp**
- 
- 🌱 I’m currently learning **Python**
+ 🔭 I’m currently working on **OGREEN Projects**
 
- 💬 Ask me about **Java, C#... or anything [here](https://github.com/heyliceeee/heyliceeee/issues)**
+ 💬 Ask me about **Python, Java, C#... or anything [here](https://github.com/heyliceeee/heyliceeee/issues)**
 
  ⚡ Fun fact **The first computer virus was called Creeper**
  
